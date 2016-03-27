@@ -47,16 +47,22 @@
 * Chain of responsibility
 * Observer
 
+### Concurrency patterns
+* Event-based asynchronous
+* Reactor
+* Thread pool
+
 ### Architectural patterns
 * MVC
 * n-tier
 * Publish–subscribe
 * Active record
-
-### Concurrency patterns
-* Event-based asynchronous
-* Reactor
-* Thread pool
+    * Ruby on Rails
+    * CakePHP
+* Data access object
+    * Hibernate
+    * Microsoft Entity Framework
+* Inversion of control
 
 ### Other patterns
 * Dependency injection
