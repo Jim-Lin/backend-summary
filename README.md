@@ -1,13 +1,13 @@
 # interview-faq
 
-# OS
-## Process, Thread
+## OS
+### Process, Thread
 
 [Multiprogramming, Multiprocessing, Multitasking, and Multithreading](https://gabrieletolomei.wordpress.com/miscellanea/operating-systems/multiprogramming-multiprocessing-multitasking-multithreading/)
 
 [Single Process Multithread vs Multi Process Single Thread](http://www.twobraids.com/2014/02/single-process-mulitthread-vs-multi.html)
 
-## I/O
+### I/O
 * Synchronous I/O
 * Asynchronous I/O
 * Non-blocking I/O
@@ -18,49 +18,53 @@
 
 [Lazy Asynchronous I/O For Event-Driven Servers](https://www.usenix.org/legacy/event/usenix04/tech/general/full_papers/elmeleegy/elmeleegy_html/html.html)
 
-# Data Structure
-## Abstract
+## Data Structure
+### Abstract
 * List
 * Stack
 * Queue
 * Set
 
-## Arrays
+### Arrays
 * Dynamic array
 * Hash table
 
-## Linked
+### Linked
 * Linked list
 
-# Data type
+## Data type
 
 
-# Algorithm
+## Algorithm
 
+<!--
 # Architectural Pattern
 * Client/Server Architectural Style
 * Domain Driven Design Architectural Style
 * N-Tier / 3-Tier Architectural Style
 * Service-Oriented Architectural Style
+-->
 
-# Design Pattern
-## GoF Behavioral patterns
+## Design Pattern
+### GoF Behavioral patterns
 * Chain of responsibility
 * Observer
 
-## Architectural patterns
+### Architectural patterns
 * MVC
+* n-tier
+* Publish–subscribe
 * Active record
 
-## Concurrency patterns
+### Concurrency patterns
 * Event-based asynchronous
 * Reactor
 * Thread pool
 
-## Other patterns
+### Other patterns
 * Dependency injection
 * Lazy loading
 
-# Framework
+## Framework
 * Spring MVC
 * ASP.NET MVC
