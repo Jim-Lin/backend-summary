@@ -59,7 +59,7 @@
 
 ### Architectural patterns
 * MVC
-    * [MVC VS. MVP VS. MVVM](http://www.albertzuurbier.com/index.php/programming/84-mvc-vs-mvp-vs-mvvm)
+    * [Webアプリケーション開発者から見た、MVCとMVP、そしてMVVMの違い](http://qiita.com/shinkuFencer/items/f2651073fb71416b6cd7)
 * n-tier
 * Publish–subscribe
 * Active record
