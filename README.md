@@ -48,12 +48,18 @@
 * Observer
 
 ### Concurrency patterns
-* Event-based asynchronous
+* Event-based asynchronous(Asynchronous method invocation)
+    * Future
+    * Task
+    * Promise
 * Reactor
 * Thread pool
 
+[What is the difference between event driven model and reactor pattern?](http://stackoverflow.com/questions/9138294/what-is-the-difference-between-event-driven-model-and-reactor-pattern)
+
 ### Architectural patterns
 * MVC
+    * [MVC VS. MVP VS. MVVM](http://www.albertzuurbier.com/index.php/programming/84-mvc-vs-mvp-vs-mvvm)
 * n-tier
 * Publish–subscribe
 * Active record
@@ -67,6 +73,9 @@
 ### Other patterns
 * Dependency injection
 * Lazy loading
+
+## Web server
+[Server Architectures](http://berb.github.io/diploma-thesis/original/042_serverarch.html)
 
 ## Web service
 ### Web API
