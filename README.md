@@ -1,4 +1,4 @@
-# interview-faq
+# 勉強、勉強、勉強
 
 ## OS
 ### Process, Thread
@@ -66,13 +66,27 @@
     * Ruby on Rails
     * CakePHP
 * Data access object
-    * Hibernate
-    * Microsoft Entity Framework
 * Inversion of control
 
 ### Other patterns
 * Dependency injection
 * Lazy loading
+
+## Database
+### Database management systems
+#### Types
+##### Relational
+* Microsoft SQL Server
+* MySQL
+* PostgreSQL
+
+##### NoSQL
+###### Document
+* MongoDB
+
+### Object-relational mapping(ORM)
+* Hibernate
+* Microsoft Entity Framework
 
 ## Web server
 [Server Architectures](http://berb.github.io/diploma-thesis/original/042_serverarch.html)
