@@ -88,6 +88,8 @@
 * Hibernate
 * Microsoft Entity Framework
 
+[Difference between Dependency Injection (DI) and Inversion of Control (IOC)](http://programmers.stackexchange.com/questions/131451/difference-between-dependency-injection-di-and-inversion-of-control-ioc)
+
 ## Web server
 [Server Architectures](http://berb.github.io/diploma-thesis/original/042_serverarch.html)
 
