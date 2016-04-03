@@ -100,3 +100,7 @@
 ## Framework
 * Spring MVC
 * ASP.NET MVC
+
+## Machine learning
+### Supervised learning
+* Perceptron
