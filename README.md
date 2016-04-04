@@ -104,3 +104,4 @@
 ## Machine learning
 ### Supervised learning
 * Perceptron
+    * Pocket
