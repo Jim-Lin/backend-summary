@@ -99,4 +99,13 @@
 
 ## Framework
 * Spring MVC
+* Nancy
 * ASP.NET MVC
+
+## CI / CD
+### Continuous Deployment Strategies
+* Mutable Server
+* Immutable Server
+* Immutable Container
+
+[Blue-Green Deployment](https://docs.cloudfoundry.org/devguide/deploy-apps/blue-green.html)
