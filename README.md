@@ -102,6 +102,10 @@
 * Nancy
 * ASP.NET MVC
 
+## Service Discovery
+* Eureka
+* Zookeeper
+
 ## CI / CD
 ### Continuous Deployment Strategies
 * Mutable Server
