@@ -97,7 +97,7 @@ Reverse proxy
 * Nginx
 
 Load Balancing
-* HAProxy
+* [HAProxy](https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts)
 
 ## Web service
 ### Web API
