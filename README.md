@@ -92,7 +92,12 @@
 
 ## Web server
 [Server Architectures](http://berb.github.io/diploma-thesis/original/042_serverarch.html)
+
 Reverse proxy
+* Nginx
+
+Load Balancing
+* HAProxy
 
 ## Web service
 ### Web API
