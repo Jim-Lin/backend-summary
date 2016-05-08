@@ -92,6 +92,7 @@
 
 ## Web server
 [Server Architectures](http://berb.github.io/diploma-thesis/original/042_serverarch.html)
+Reverse proxy
 
 ## Web service
 ### Web API
