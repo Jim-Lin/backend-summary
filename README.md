@@ -72,7 +72,8 @@
 * Dependency injection
 * Lazy loading
 
-[Difference between Dependency Injection (DI) and Inversion of Control (IOC)](http://programmers.stackexchange.com/questions/131451/difference-between-dependency-injection-di-and-inversion-of-control-ioc)
+[Difference between Dependency Injection (DI) and Inversion of Control (IOC)](http://programmers.stackexchange.com/questions/131451/difference-between-dependency-injection-di-and-inversion-of-control-ioc)  
+[SpringのDIとAOPの簡潔な説明](http://qiita.com/shuntaro_tamura/items/ba5a2e9b3ba305285edd)
 
 ## Database
 ### Database management systems
