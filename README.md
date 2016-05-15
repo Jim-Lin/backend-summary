@@ -113,10 +113,13 @@ Load Balancing
 * Eureka
 * Zookeeper
 
+## Edge Service
+* Zuul
+
 ## CI / CD
 ### Continuous Deployment Strategies
 * Mutable Server
-* Immutable Server
+* Immutable Infrastructure/Server
 * Immutable Container
 
 [Blue-Green Deployment](https://docs.cloudfoundry.org/devguide/deploy-apps/blue-green.html)
