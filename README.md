@@ -47,6 +47,13 @@
 * Chain of responsibility
 * Observer
 
+### GoF Structural patterns
+* Adapter
+
+### GoF Creational patterns
+* Builder
+
+
 ### Concurrency patterns
 * Event-based asynchronous(Asynchronous method invocation)
     * Future
