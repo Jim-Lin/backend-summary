@@ -130,3 +130,4 @@ Load Balancing
 * Immutable Container
 
 [Blue-Green Deployment](https://docs.cloudfoundry.org/devguide/deploy-apps/blue-green.html)
+[CanaryRelease](http://martinfowler.com/bliki/CanaryRelease.html)
