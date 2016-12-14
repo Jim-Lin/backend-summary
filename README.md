@@ -97,6 +97,11 @@
 ###### Document
 * MongoDB
 
+###### Data-Structures Server
+* Redis
+    * Snapshotting
+    * Append-only file
+
 ### Object-relational mapping(ORM)
 * Hibernate
 * Microsoft Entity Framework
