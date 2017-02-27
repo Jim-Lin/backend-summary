@@ -106,6 +106,10 @@
 * Hibernate
 * Microsoft Entity Framework
 
+### Scalability
+* Horizontal: adding more machines
+* Vertical: adding more power (CPU, RAM) to an existing machine
+
 ## Web server
 [Server Architectures](http://berb.github.io/diploma-thesis/original/042_serverarch.html)
 
